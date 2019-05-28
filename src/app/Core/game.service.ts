@@ -307,8 +307,4 @@ export class GameService {
     return 0;
 
   }
-
-
-
-
 }

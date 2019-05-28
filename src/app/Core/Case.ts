@@ -1,5 +1,4 @@
 export class Case {
-
     value = '';
 
     public setValue(val: string) {
