@@ -1,5 +1,11 @@
 # Morpion
 
+Projet de jeu du Morpion développé sur le framework Angular.
+Vous pouvez retrouver un tutoriel complet sur mon blog https://monpetitdev.fr
+
+
+##  Project
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
