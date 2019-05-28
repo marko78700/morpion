@@ -43,7 +43,6 @@ export class AppComponent {
 
   play(i: number) {
 
-
     if (this.gameService.cases[i].value === '' && !this.isGameOver) {
 
       this.gameService.nbCasesVides -= 1;
